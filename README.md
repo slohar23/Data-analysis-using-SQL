@@ -20,3 +20,4 @@ This code is a part of data analysis project to answer the following questions i
 7. Total number of orders for each product where qty order greater than 2
 
 8. Total number of products, value of highest msrp, total no. of products qty for each vendor
+![image](https://user-images.githubusercontent.com/83802451/165781819-2fc4951d-166b-498d-b48b-13dc27042e43.png)
